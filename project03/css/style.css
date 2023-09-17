@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+}
+ 
+ div{
+    height: 100vh;
+    width: 100%;
+    background-image: url(../images/image.pc.jpeg);
+    background-size: cover;
+ }
+ div h1{
+ 	font-size: 50px;
+ 	font-style: oblique;
+ 	position: absolute;
+ 	left: 0;
+ 	right: 0;
+ 	margin: 0 auto;
+ 	top: 40%;
+ }
+ p{
+   font-size: 20px;
+   font-style: italic;
+ 	position: absolute;
+ 	left: 5%;
+ 	right: 5%;
+ 	margin: 0 auto;
+ 	top: 55%;
+ }
